@@ -11,3 +11,9 @@ Du hast ein Startup und willst auch in der Liste genannt werden? Dann erstelle e
 * eine Beschreibung deines Startups in einem Satz
 
 Wir kümmern uns um den Rest.
+
+## Weitere Informationen
+
+* Generator: [Jekyll](https://jekyllrb.com)
+* Template: Aesthetic by [gettemplates.co](https://gettemplates.co)
+* Author: [@lorey](https://github.com/lorey)
