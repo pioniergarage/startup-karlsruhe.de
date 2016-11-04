@@ -78,9 +78,14 @@
                 </div>
                 <div class="col-xs-8 text-right menu-1">
                     <ul>
-                        <li><a href="/">Home</a></li>
-                        <li class="active"><a href="events.html">Events</a></li>
-                        <li><a href="hilfe-fuer-startups-und-gruender.html">Startup-Unterstützer</a></li>
+                        <li {% if page.url == "/" %}class="active"{% endif %}>
+                            <a href="/">Home</a>
+                        </li>
+                        <li {% if page.url == "/events.html" %}class="active"{% endif %}>
+                            <a href="events.html">Events</a></li>
+                        <li {% if page.url == "/hilfe-fuer-startups-und-gruender.html" %}class="active"{% endif %}>
+                            <a href="hilfe-fuer-startups-und-gruender.html">Startup-Unterstützer</a>
+                        </li>
                     </ul>
                 </div>
             </div>
