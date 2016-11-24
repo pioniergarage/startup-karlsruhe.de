@@ -62,39 +62,7 @@
 <div class="gtco-loader"></div>
 
 <div id="page">
-    <nav class="gtco-nav" role="navigation">
-        <div class="gtco-container">
-            <div class="row">
-                <div class="col-md-12 text-right gtco-contact">
-                    <ul class="">
-                        <li><a href="http://pioniergarage.de/kontakt" target="_blank"><i class="icon-mail2"></i></a></li>
-                        <li><a href="https://startup-karlsruhe-slackin.herokuapp.com" target="_blank"><i class="fa fa-slack"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4 col-xs-12">
-                    <div id="gtco-logo"><a href="/">Startup-Karlsruhe <em>.</em> de</a></div>
-                </div>
-                <div class="col-xs-8 text-right menu-1">
-                    <ul>
-                        <li {% if page.url == "/" %}class="active"{% endif %}>
-                            <a href="/">Home</a>
-                        </li>
-                        <li {% if page.url == "/events.html" %}class="active"{% endif %}>
-                            <a href="events.html">Events</a></li>
-                        <li {% if page.url == "/hilfe-fuer-startups-und-gruender.html" %}class="active"{% endif %}>
-                            <a href="hilfe-fuer-startups-und-gruender.html">Startup-Unterstützer</a>
-                        </li>
-                        <li {% if page.url == "/online-community.html" %}class="active"{% endif %}>
-                        <a href="online-community.html">Online-Community</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-        </div>
-    </nav>
+    {% include nav.html %}
 
     {{ content }}
 
