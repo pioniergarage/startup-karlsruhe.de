@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE HTML>
 <!--
 	Aesthetic by gettemplates.co
@@ -200,90 +202,17 @@
 			<div class="row row-pb-md">
 				<div class="col-md-12">
 					<ul id="gtco-portfolio-list">
-                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_1.jpg); ">
-                            <a href="#" class="color-1">
+						{% assign selected_startups = site.data.startups | sample:100 %}
+						{% for startup in selected_startups %}
+                        <li class="{% cycle 'two-third', 'one-third', 'one-third', 'two-third' %} animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_{% cycle '1', '2', '3', '4', '5', '6' %}.jpg); ">
+                            <a href="{{ startup.url }}" target="_blank" class="color-{% cycle '2', '3', '4', '5', '6', '1' %}">
                                 <div class="case-studies-summary">
-                                    <span>Campusjäger</span>
-                                    <h2>Jobs und Praktika für Studenten</h2>
+                                    <span>{{ startup.name }}</span>
+                                    <h2>{{ startup.tagline }}</h2>
                                 </div>
                             </a>
                         </li>
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_2.jpg); ">
-                            <a href="#" class="color-2">
-                                <div class="case-studies-summary">
-                                    <span>Papershift</span>
-                                    <h2>Ihr Dienstplan einfach online</h2>
-                                </div>
-                            </a>
-                        </li>
-
-						<li class="one-half animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_3.jpg); ">
-							<a href="#" class="color-3">
-								<div class="case-studies-summary">
-									<span>busliniensuche</span>
-									<h2>Fernbus-Verbindungen europaweit finden</h2>
-								</div>
-							</a>
-						</li>
-						<li class="one-half animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg); ">
-							<a href="#" class="color-4">
-								<div class="case-studies-summary">
-									<span>Lengoo</span>
-									<h2>Professionelle Übersetzungen in wenigen Klicks</h2>
-								</div>
-							</a>
-						</li>
-
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_5.jpg); "> 
-							<a href="#" class="color-5">
-								<div class="case-studies-summary">
-									<span>#now</span>
-									<h2>Hashtags einfach erklärt</h2>
-								</div>
-							</a>
-						</li>
-						<li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_6.jpg); ">
-							<a href="#" class="color-6">
-								<div class="case-studies-summary">
-									<span>CASHLINK</span>
-									<h2>Zahlungen zwischen Freunden</h2>
-								</div>
-							</a>
-						</li>
-
-                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_1.jpg); ">
-                            <a href="#" class="color-1">
-                                <div class="case-studies-summary">
-                                    <span>German IT Jobs</span>
-                                    <h2>IT-Fachkräfte aus dem Ausland</h2>
-                                </div>
-                            </a>
-                        </li>
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_2.jpg); ">
-                            <a href="#" class="color-2">
-                                <div class="case-studies-summary">
-                                    <span>store2be</span>
-                                    <h2>Buchungsplattform für Aktions- und Verkaufsflächen</h2>
-                                </div>
-                            </a>
-                        </li>
-
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_3.jpg); ">
-                            <a href="#" class="color-3">
-                                <div class="case-studies-summary">
-                                    <span>Eyezag</span>
-                                    <h2>Eye-Tracking per Webcam</h2>
-                                </div>
-                            </a>
-                        </li>
-                        <li class="two-third animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg); ">
-                            <a href="#" class="color-4">
-                                <div class="case-studies-summary">
-                                    <span>Blue Yonder</span>
-                                    <h2>Cloudbasierte Predictive Applications für den Handel</h2>
-                                </div>
-                            </a>
-                        </li>
+						{% endfor %}
 					</ul>		
 				</div>
 			</div>
