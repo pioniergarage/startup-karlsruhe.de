@@ -93,5 +93,45 @@
     "name": "Selfbits",
     "url": "https://www.selfbits.io",
     "tagline": "Backend as a Service"
+  },
+  {
+    "name": "Pace",
+    "url": "https://www.pace.car",
+    "tagline": "Mach dein Auto zu einem Smartcar"
+  },
+  {
+    "name": "Kinemic",
+    "url": "https://kinemic.de",
+    "tagline": "Gestensteuerung leicht gemacht"
+  },
+  {
+    "name": "otego",
+    "url": "http://www.otego.de",
+    "tagline": "Thermoelekrische Generatoren für Energy-Harvesting-Anwendungen"
+  },
+  {
+    "name": "imiji.pics",
+    "url": "https://imiji.pics/",
+    "tagline": "Der bequeme und moderne Weg zu Hochzeitsbildern"
+  },
+  {
+    "name": "Restube",
+    "url": "https://www.restube.com",
+    "tagline": "Für mehr Freiheit im Wasser"
+  },
+  {
+    "name": "ArtiMinds Robotics",
+    "url": "https://www.artiminds.com",
+    "tagline": "Automating our world"
+  },
+  {
+    "name": "GoSilico",
+    "url": "https://gosilico.com",
+    "tagline": "Software and methods for computer-aided bioprocess development"
+  },
+  {
+    "name": "Volocopter",
+    "url": "http://www.e-volo.com",
+    "tagline": "Dawn of a revolution in urban mobility"
   }
 ]
