@@ -46,7 +46,52 @@
   },
   {
     "name": "Blue Yonder",
-    "url": "https://www.blue-yonder.com/",
+    "url": "https://www.blue-yonder.com",
     "tagline": "Cloudbasierte Predictive Applications für den Handel"
+  },
+  {
+    "name": "rentingforce",
+    "url": "https://www.rentingforce.com",
+    "tagline": "Rental software and online rental solutions"
+  },
+  {
+    "name": "cubuslab",
+    "url": "https://www.cubuslab.com",
+    "tagline": "Seamless solutions for science"
+  },
+  {
+    "name": "corvolution",
+    "url": "https://corvolution.com",
+    "tagline": "Herz-Kreislauf-Prävention und -Diagnostik"
+  },
+  {
+    "name": "understand.ai",
+    "url": "https://understand.ai",
+    "tagline": "High quality image annotation"
+  },
+  {
+    "name": "Courito",
+    "url": "http://www.courito.com",
+    "tagline": "Personal delivery app"
+  },
+  {
+    "name": "Abusix",
+    "url": "https://www.abusix.com",
+    "tagline": "Network abuse handling solution"
+  },
+  {
+    "name": "Inreal",
+    "url": "https://inreal-tech.com",
+    "tagline": "Virtuelle 3D-Begehung"
+  },
+  {
+    "name": "Pubki",
+    "url": "https://www.pubki.de",
+    "tagline": "Triff neue Leute und teile deine Interessen"
+  },
+  {
+    "name": "Selfbits",
+    "url": "https://www.selfbits.io",
+    "tagline": "Backend as a Service"
   }
 ]
