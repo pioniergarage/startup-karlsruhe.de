@@ -181,7 +181,7 @@
 						{% assign selected_startups = site.data.startups | sample:100 %}
 						{% for startup in selected_startups %}
                         <li class="{% cycle 'two-third', 'one-third', 'one-third', 'two-third' %} animate-box" data-animate-effect="fadeIn" style="background-image: url(images/img_{% cycle '1', '2', '3', '4', '5', '6' %}.jpg); ">
-                            <a href="{{ startup.url }}?utm_source=frontpage&utm_medium=colorbox" target="_blank" class="color-{% cycle '2', '3', '4', '5', '6', '1' %}">
+                            <a href="{{ startup.url }}?utm_source=startup-karlsruhe.de&utm_medium=banner&utm_campaign=frontpage_promo" target="_blank" class="color-{% cycle '2', '3', '4', '5', '6', '1' %}">
                                 <div class="case-studies-summary">
                                     <span>{{ startup.name }}</span>
                                     <h2>{{ startup.tagline }}</h2>
