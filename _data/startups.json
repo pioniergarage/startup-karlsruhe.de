@@ -133,5 +133,10 @@
     "name": "Volocopter",
     "url": "http://www.e-volo.com",
     "tagline": "Dawn of a revolution in urban mobility"
+  },
+  {
+    "name": "ReTest",
+    "url": "https://retest.de/",
+    "tagline": "KI-basiertes Testautomatisierungs-Tool für Java-Desktopanwendungen"
   }
 ]
