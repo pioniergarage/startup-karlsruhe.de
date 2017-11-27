@@ -12,6 +12,11 @@ Du hast ein Startup und willst auch in der Liste genannt werden? Dann erstelle e
 
 Wir kümmern uns um den Rest.
 
+## Deployment
+* `$ jekyll build`
+* Danach den Inhalt des neu erzeugten Ordners `_site` per FTP auf den Server laden.
+
+
 ## Weitere Informationen
 
 * Generator: [Jekyll](https://jekyllrb.com)
