@@ -133,5 +133,10 @@
     "name": "ReTest",
     "url": "https://retest.de/",
     "tagline": "KI-basiertes Testautomatisierungs-Tool für Java-Desktopanwendungen"
+  },
+  {
+    "name": "Enscape",
+    "url": "https://enscape3d.com/",
+    "tagline": "Realtime Rendering and VR for Architecture"
   }
 ]
