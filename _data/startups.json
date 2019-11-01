@@ -1,142 +1,352 @@
 [
   {
-    "name": "Campusjäger",
-    "url": "https://campusjaeger.de",
-    "tagline": "Jobs und Praktika für Studenten"
-  },
-  {
-    "name": "Papershift",
-    "url": "https://www.papershift.com",
-    "tagline": "Ihr Dienstplan einfach online"
-  },
-  {
-    "name": "busliniensuche",
-    "url": "https://busliniensuche.de",
-    "tagline": "Fernbus-Verbindungen europaweit finden"
-  },
-  {
-    "name": "Lengoo",
-    "url": "https://lengoo.de",
-    "tagline": "Professionelle Übersetzungen in wenigen Klicks"
-  },
-  {
-    "name": "CASHLINK",
-    "url": "https://cashlink.io",
-    "tagline": "Zahlungen zwischen Freunden"
-  },
-  {
-    "name": "German IT Jobs",
-    "url": "http://germanitjobs.com",
-    "tagline": "Globale Programmiertalente für deutsche Unternehmen - qualifiziert und geprüft"
-  },
-  {
-    "name": "store2be",
-    "url": "https://www.store2be.com",
-    "tagline": "Buchungsplattform für Aktions- und Verkaufsflächen"
-  },
-  {
-    "name": "Eyezag",
-    "url": "https://eyezag.com",
-    "tagline": "Eye-Tracking per Webcam"
-  },
-  {
-    "name": "Blue Yonder",
-    "url": "https://www.blue-yonder.com",
-    "tagline": "Cloudbasierte Predictive Applications für den Handel"
-  },
-  {
-    "name": "rentingforce",
-    "url": "https://www.rentingforce.com",
-    "tagline": "Rental software and online rental solutions"
-  },
-  {
-    "name": "cubuslab",
-    "url": "https://www.cubuslab.com",
-    "tagline": "Seamless solutions for science"
-  },
-  {
-    "name": "corvolution",
-    "url": "https://corvolution.com",
-    "tagline": "Herz-Kreislauf-Prävention und -Diagnostik"
-  },
-  {
-    "name": "understand.ai",
-    "url": "https://understand.ai",
-    "tagline": "High quality image annotation"
-  },
-  {
-    "name": "Courito",
-    "url": "http://www.courito.com",
-    "tagline": "Personal delivery app"
-  },
-  {
     "name": "Abusix",
-    "url": "https://www.abusix.com",
-    "tagline": "Network abuse handling solution"
+    "tagline": "Network abuse handling solution",
+    "url": "https://www.abusix.com"
   },
   {
-    "name": "Inreal",
-    "url": "https://inreal-tech.com",
-    "tagline": "Virtuelle 3D-Begehung"
+    "name": "apic.ai",
+    "tagline": "Bienen retten mit künstlicher Intelligenz",
+    "url": "https://www.apic.ai/"
   },
   {
-    "name": "Usertimes",
-    "url": "https://usertimes.io",
-    "tagline": "We enable makers to create great products."
+    "name": "Apium Additive Technologies",
+    "tagline": "3D-Druck",
+    "url": "https://apiumtec.com/"
   },
   {
-    "name": "Selfbits",
-    "url": "https://www.selfbits.io",
-    "tagline": "Backend as a Service"
+    "name": "Appointrix",
+    "tagline": "Eine App für Händler, Installateur und Kunde",
+    "url": "https://www.appointrix.de/"
   },
   {
-    "name": "Pace",
-    "url": "https://www.pace.car",
-    "tagline": "Mach dein Auto zu einem Smartcar"
-  },
-  {
-    "name": "Kinemic",
-    "url": "https://kinemic.de",
-    "tagline": "Gestensteuerung leicht gemacht"
-  },
-  {
-    "name": "otego",
-    "url": "http://www.otego.de",
-    "tagline": "Thermoelekrische Generatoren für Energy-Harvesting-Anwendungen"
-  },
-  {
-    "name": "imiji.pics",
-    "url": "https://imiji.pics/",
-    "tagline": "Der bequeme und moderne Weg zu Hochzeitsbildern"
-  },
-  {
-    "name": "Restube",
-    "url": "https://www.restube.com",
-    "tagline": "Für mehr Freiheit im Wasser"
+    "name": "aramido",
+    "tagline": "aramido macht IT sicher",
+    "url": "https://aramido.de"
   },
   {
     "name": "ArtiMinds Robotics",
-    "url": "https://www.artiminds.com",
-    "tagline": "Automating our world"
+    "tagline": "Automating our world",
+    "url": "https://www.artiminds.com"
   },
   {
-    "name": "GoSilico",
-    "url": "https://gosilico.com",
-    "tagline": "Software and methods for computer-aided bioprocess development"
+    "name": "Axonic",
+    "tagline": "We create products that help people work smarter",
+    "url": "https://axonic.com/"
   },
   {
-    "name": "Volocopter",
-    "url": "http://www.e-volo.com",
-    "tagline": "Dawn of a revolution in urban mobility"
+    "name": "Better Life",
+    "tagline": "Allergene und Zusatzstoffe richtig ausweisen",
+    "url": "https://www.antiallergy.de"
   },
   {
-    "name": "ReTest",
-    "url": "https://retest.de/",
-    "tagline": "KI-basiertes Testautomatisierungs-Tool für Java-Desktopanwendungen"
+    "name": "Blue Yonder",
+    "tagline": "Cloudbasierte Predictive Applications für den Handel",
+    "url": "https://www.blue-yonder.com"
+  },
+  {
+    "name": "BrandMaker",
+    "tagline": "We offer powerful Marketing Resource Management (MRM) systems and are becoming a pioneer in Customer Engagement Management.",
+    "url": "http://www.brandmaker.com"
+  },
+  {
+    "name": "busliniensuche",
+    "tagline": "Fernbus-Verbindungen europaweit finden",
+    "url": "https://busliniensuche.de"
+  },
+  {
+    "name": "Campusjäger",
+    "tagline": "Jobs und Praktika für Studenten",
+    "url": "https://campusjaeger.de"
+  },
+  {
+    "name": "CASHLINK",
+    "tagline": "Einfach zur Unternehmensbeteiligung",
+    "url": "https://cashlink.de/"
+  },
+  {
+    "name": "corvolution",
+    "tagline": "Herz-Kreislauf-Prävention und -Diagnostik",
+    "url": "https://corvolution.com"
+  },
+  {
+    "name": "cubuslab",
+    "tagline": "Seamless solutions for science",
+    "url": "https://www.cubuslab.com"
+  },
+  {
+    "name": "emmtrix",
+    "tagline": "Solutions for Leveraging Embedded Multicore Computing",
+    "url": "http://www.emmtrix.com/"
   },
   {
     "name": "Enscape",
-    "url": "https://enscape3d.com/",
-    "tagline": "Realtime Rendering and VR for Architecture"
+    "tagline": "Realtime Rendering and VR for Architecture",
+    "url": "https://enscape3d.com/"
+  },
+  {
+    "name": "Eyezag",
+    "tagline": "Eye-Tracking per Webcam",
+    "url": "https://eyezag.com"
+  },
+  {
+    "name": "First Momentum Ventures",
+    "tagline": "Germany's first student-run venture capital firm",
+    "url": "http://firstmomentum.vc/"
+  },
+  {
+    "name": "Flaregames",
+    "tagline": "F2P Mobile Games Publisher",
+    "url": "http://flaregames.com/"
+  },
+  {
+    "name": "German IT Jobs",
+    "tagline": "Globale Programmiertalente für deutsche Unternehmen - qualifiziert und geprüft",
+    "url": "http://germanitjobs.com"
+  },
+  {
+    "name": "GoSilico",
+    "tagline": "Software and methods for computer-aided bioprocess development",
+    "url": "https://gosilico.com"
+  },
+  {
+    "name": "Guzz",
+    "tagline": "Guzz ist das \"Live-YouTube\" für praktische Fragen",
+    "url": "http://www.guzz.io"
+  },
+  {
+    "name": "HelioPas AI",
+    "tagline": "Agricultural insights",
+    "url": "https://www.heliopas.com"
+  },
+  {
+    "name": "HQS Quantum Simulations",
+    "tagline": "Vorhersage von Materialeigenschaften",
+    "url": "https://www.quantumsimulations.de/"
+  },
+  {
+    "name": "imiji.pics",
+    "tagline": "Der bequeme und moderne Weg zu Hochzeitsbildern",
+    "url": "https://imiji.pics/"
+  },
+  {
+    "name": "INERATEC",
+    "tagline": "Innovative Chemical Reactor Technologies",
+    "url": "http://www.ineratec.de"
+  },
+  {
+    "name": "inlyse",
+    "tagline": "Malware Detection Using Artificial Intelligence",
+    "url": "https://www.inlyse.com/"
+  },
+  {
+    "name": "Inreal",
+    "tagline": "Virtuelle 3D-Begehung",
+    "url": "https://inreal-tech.com"
+  },
+  {
+    "name": "Inreal Technologies",
+    "tagline": "Digitale Vertriebswerkzeuge",
+    "url": "http://www.inreal-tech.com/"
+  },
+  {
+    "name": "KENFORX",
+    "tagline": "Crowd Intelligence",
+    "url": "http://www.kenforx.com/"
+  },
+  {
+    "name": "Kinemic",
+    "tagline": "Gestensteuerung leicht gemacht",
+    "url": "https://kinemic.de"
+  },
+  {
+    "name": "Lengoo",
+    "tagline": "Professionelle Übersetzungen in wenigen Klicks",
+    "url": "https://lengoo.de"
+  },
+  {
+    "name": "LightnTec",
+    "tagline": "We help you to convert virtual in reality: AnySize. AnyPlace. AnyShape.",
+    "url": "http://www.lightntec.com/"
+  },
+  {
+    "name": "Liquidbeam",
+    "tagline": "ELIAH - Die Licht- und Wärmekombination",
+    "url": "http://www.liquidbeam.de"
+  },
+  {
+    "name": "Lookeen",
+    "tagline": "Die ultimative Desktop Suche",
+    "url": "http://www.lookeen.de"
+  },
+  {
+    "name": "Mapstar",
+    "tagline": "Mapstar verbindet die reale Welt mit der digitalen Welt, indem unsere Augmented Reality Technologie ermöglicht digitale Informationen permanent an realen Orten zu hinterlegen",
+    "url": "https://www.mapstar.io"
+  },
+  {
+    "name": "memetis",
+    "tagline": "Ultrakompakte kundenspezifische Aktorik mit großen Kräften",
+    "url": "http://www.memetis.com"
+  },
+  {
+    "name": "mobilion.eu",
+    "tagline": "Mobile Informationstechnologie für Feuerwehr Profis",
+    "url": "http://www.mobilion.eu/"
+  },
+  {
+    "name": "movisens",
+    "tagline": "movisens bietet weltweit führende Lösungen für das Ambulante Assessment und das mobile Monitoring an.",
+    "url": "http://movisens.com/"
+  },
+  {
+    "name": "n.able",
+    "tagline": "surface functionalization in the micro- and nano-scale",
+    "url": "https://www.n-able-innovation.com"
+  },
+  {
+    "name": "Neohelden",
+    "tagline": "Meet Neo, your personaI AI-assistant",
+    "url": "https://neohelden.com"
+  },
+  {
+    "name": "Nesto",
+    "tagline": "Intelligente und bedarfsorientierte Personalplanung",
+    "url": "https://nesto-software.de/"
+  },
+  {
+    "name": "NinjaConcept",
+    "tagline": "Sophisticated web & mobile applications",
+    "url": "http://www.ninjaconcept.com/"
+  },
+  {
+    "name": "Novelsense",
+    "tagline": "Shaping the future of sensing",
+    "url": "http://novelsense.com"
+  },
+  {
+    "name": "Nuberisim",
+    "tagline": "The Numerical Simulation Platform",
+    "url": "http://www.nuberisim.de/"
+  },
+  {
+    "name": "otego",
+    "tagline": "Thermoelekrische Generatoren für Energy-Harvesting-Anwendungen",
+    "url": "http://www.otego.de"
+  },
+  {
+    "name": "Pace",
+    "tagline": "Mach dein Auto zu einem Smartcar",
+    "url": "https://www.pace.car"
+  },
+  {
+    "name": "Papershift",
+    "tagline": "Ihr Dienstplan einfach online",
+    "url": "https://www.papershift.com"
+  },
+  {
+    "name": "Pharos Solutions",
+    "tagline": "Wir setzen Softwareprojekte kostengünstig, zuverlässig und qualitativ hochwertig um.",
+    "url": "http://www.pharos-solutions.de"
+  },
+  {
+    "name": "PowMio",
+    "tagline": "Software-Gesamtlösungen",
+    "url": "http://www.powmio.com"
+  },
+  {
+    "name": "pulspartner",
+    "tagline": "On-Demand Healthcare Spezialisten für besondere Einsätze",
+    "url": "http://www.pulspartner.com/"
+  },
+  {
+    "name": "QPR Technologies",
+    "tagline": "Beste Software-Qualität mittels exakter statischer Code-Analyse",
+    "url": "http://qpr-technologies.de/"
+  },
+  {
+    "name": "Qymatix Solutions",
+    "tagline": "Predictive Sales Analytics",
+    "url": "https://qymatix.de/de/"
+  },
+  {
+    "name": "R3DT",
+    "tagline": "Meet your Reality",
+    "url": "https://www.r3dt.com/"
+  },
+  {
+    "name": "rentingforce",
+    "tagline": "Rental software and online rental solutions",
+    "url": "https://www.rentingforce.com"
+  },
+  {
+    "name": "Renumics",
+    "tagline": "AI-assisted engineering",
+    "url": "http://www.renumics.com"
+  },
+  {
+    "name": "Restube",
+    "tagline": "Für mehr Freiheit im Wasser",
+    "url": "https://www.restube.com"
+  },
+  {
+    "name": "ReTest",
+    "tagline": "KI-basiertes Testautomatisierungs-Tool für Java-Desktopanwendungen",
+    "url": "https://retest.de/"
+  },
+  {
+    "name": "robodev",
+    "tagline": "einfach. selbst. automatisieren.",
+    "url": "http://www.robodev.com"
+  },
+  {
+    "name": "Selfbits",
+    "tagline": "Wegbereiter digitaler Transformation in der Produktion",
+    "url": "https://www.selfbits.de"
+  },
+  {
+    "name": "SIMUTENCE",
+    "tagline": "Virtual Composite Solutions",
+    "url": "http://www.simutence.de"
+  },
+  {
+    "name": "Smartivate",
+    "tagline": "The Configurator for Plug & Play Smart Home Devices",
+    "url": "https://smartivate.de/"
+  },
+  {
+    "name": "store2be",
+    "tagline": "Buchungsplattform für Aktions- und Verkaufsflächen",
+    "url": "https://www.store2be.com"
+  },
+  {
+    "name": "Teamemo",
+    "tagline": "Knowledge base with real-time collaborative editing",
+    "url": "https://teamemo.com"
+  },
+  {
+    "name": "thingsTHINKING",
+    "tagline": "The solution to understand semantics: our semantic processing platform",
+    "url": "http://thingsthinking.net"
+  },
+  {
+    "name": "understand.ai",
+    "tagline": "High quality image annotation",
+    "url": "https://understand.ai"
+  },
+  {
+    "name": "Usertimes",
+    "tagline": "We enable makers to create great products.",
+    "url": "https://usertimes.io"
+  },
+  {
+    "name": "ventecon.de",
+    "tagline": "Network Mining for sustainable business transformations",
+    "url": "https://ventecon.appspot.com/"
+  },
+  {
+    "name": "Volocopter",
+    "tagline": "Dawn of a revolution in urban mobility",
+    "url": "http://www.e-volo.com"
   }
 ]
