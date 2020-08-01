@@ -348,5 +348,10 @@
     "name": "Volocopter",
     "tagline": "Dawn of a revolution in urban mobility",
     "url": "http://www.e-volo.com"
+  },
+  {
+    "name": "BestFit",
+    "tagline": "Digitalisierung der Trainingsbetreuung im Fitnessstudio",
+    "url": "https://www.bestfit.app/"
   }
 ]
