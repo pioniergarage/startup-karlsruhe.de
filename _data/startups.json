@@ -353,5 +353,10 @@
     "name": "BestFit",
     "tagline": "Digitalisierung der Trainingsbetreuung im Fitnessstudio",
     "url": "https://www.bestfit.app/"
+  },
+  {
+    "name": "prenode",
+    "tagline": "Secure and Managed Federated Machine Learning for Distributed Systems",
+    "url": "https://prenode.de/"
   }
 ]
