@@ -26,6 +26,12 @@ Wir kümmern uns um den Rest.
 - Danach kann die Website unter [localhost:4000](localhost:4000) aufgerufen werden
 - `docker-compose down` to clean up
 
+## Update packages
+
+- `docker-compose up`
+- `docker exec -it <container-id> bash`
+- `bundle update`
+
 ## Weitere Informationen
 
 - Generator: [Jekyll](https://jekyllrb.com)
